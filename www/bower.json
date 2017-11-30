@@ -1,13 +1,12 @@
 {
   "name": "www",
-  "homepage": "https://github.com/dicondur",
+  "homepage": "https://github.com/Dicondur/todo",
   "authors": [
     "Dinesh <dinesh.condur@gmail.com>"
   ],
   "description": "",
-  "main": "index.js",
+  "main": "",
   "license": "MIT",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
